@@ -1,5 +1,7 @@
 * {font-family: arial;}
 
+body {background-repeat: no-repeat;}
+
 h1 {color: white; background-color: black; display: inline;}
 
 .nav-item {color: black; background-color: white; display: inline;}
