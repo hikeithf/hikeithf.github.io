@@ -10,6 +10,14 @@
     min-height: 600px;
 }
 
+.message {
+    width: 200px;
+    height: 200px;
+    color: white;
+    background-color: black;
+    opacity: 0.5;
+}
+
 .middle {
     background-image: url("/forest-tree.jpeg");
     background-repeat: no-repeat;
