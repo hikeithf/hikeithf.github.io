@@ -3,10 +3,9 @@
 body {
     background-image: url("/field-clouds-sky-earth-46160.jpeg");
     background-repeat: no-repeat;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    overflow: hidden;}
+    background-position: center;
+    background-size: cover;
+}
 
 h1 {color: white; background-color: black; display: inline; padding-top: 20px;}
 
