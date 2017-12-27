@@ -1,4 +1,6 @@
-h1 {text-align: center; color: green;}
+h1 {color: white; background-color: black;}
+
+.top {display: inline;}
 
 .nav {text-align: center; font-family: arial;}
 
