@@ -8,7 +8,7 @@ body {
     display: block;
     overflow: hidden;}
 
-h1 {color: white; background-color: black; display: inline; padding: 50px;}
+h1 {color: white; background-color: black; display: inline; padding-top: 20px;}
 
 .nav-item {color: black; background-color: white; display: inline;}
 .nav-list {color: black; background-color: white; display: inline;}
