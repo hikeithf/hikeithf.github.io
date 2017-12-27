@@ -2,6 +2,8 @@ h1 {color: white; background-color: black;}
 
 .top {display: inline;}
 
+.top.nav {display: inline; float: right;}
+
 .nav {text-align: center; font-family: arial;}
 
 .footer {text-align: center; font-size: 10px;}
