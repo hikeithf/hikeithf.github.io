@@ -2,7 +2,7 @@
 
 body {background-repeat: no-repeat;}
 
-h1 {color: white; background-color: black; display: inline;}
+h1 {color: white; background-color: black; display: inline; padding: 50px;}
 
 .nav-item {color: black; background-color: white; display: inline;}
 .nav-list {color: black; background-color: white; display: inline;}
