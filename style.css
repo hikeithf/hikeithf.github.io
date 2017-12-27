@@ -1,17 +1,44 @@
-* {font-family: arial;}
+* {
+    font-family: verdana;
+}
 
-body {
+.top {
     background-image: url("/field-clouds-sky-earth-46160.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
-h1 {color: white; background-color: black; display: inline; padding-top: 20px;}
+.middle {
+    background-image: url("/field-clouds-sky-earth-46160.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
-.nav-item {color: black; background-color: white; display: inline;}
-.nav-list {color: black; background-color: white; display: inline;}
+.bottom {
+    background-image: url("/field-clouds-sky-earth-46160.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
-.nav {text-align: center; font-family: arial;}
+h1 {
+    color: white;
+    background-color: black;
+    display: inline;
+    padding-top: 20px;
+}
 
-.footer {text-align: center; font-size: 10px;}
+.nav-item {
+    color: black;
+    background-color: white;
+    display: inline;
+}
+
+.footer {
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    background-color: black;
+}
