@@ -49,10 +49,13 @@ h1 {
     padding: 10px;
 }
 
+.nav-bar {
+    display: inline;
+}
+
 .nav-item {
     color: black;
     background-color: white;
-    display: inline;
 }
 
 .footer {
