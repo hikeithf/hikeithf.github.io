@@ -2,7 +2,7 @@
     font-family: verdana;
 }
 
-.top {
+.banner {
     background-image: url("/field-clouds-sky-earth-46160.jpeg");
     background-repeat: no-repeat;
     background-position: center;
@@ -24,9 +24,8 @@
 }
 
 h1 {
-    color: white;
-    background-color: black;
-    display: inline;
+    color: orange;
+    text-align: center;
     padding: 10px;
 }
 
