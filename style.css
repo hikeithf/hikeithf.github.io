@@ -2,6 +2,10 @@
     font-family: verdana;
 }
 
+.logo {
+    margin: auto;
+}
+
 .banner {
     background-image: url("/field-clouds-sky-earth-46160.jpeg");
     background-repeat: no-repeat;
