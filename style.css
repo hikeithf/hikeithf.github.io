@@ -15,31 +15,12 @@
 .message {
     width: 500px;
     height: 300px;
+    padding: 20px;
     color: white;
     background-color: black;
-    opacity: 0.8;
+    opacity: 0.7;
     position: absolute;
     left: 450px;
-}
-
-.middle {
-    background-image: url("/forest-tree.jpeg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    min-height: 600px;
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
-.bottom {
-    background-image: url("/mail.jpeg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    min-height: 600px;
-    margin-top: 0;
-    margin-bottom: 0;
 }
 
 h1 {
