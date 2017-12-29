@@ -9,6 +9,10 @@
     margin: 0px auto 0px auto;
 }
 
+.nav {
+    text-align: center;
+}
+
 .banner {
     background-image: url("/field-clouds-sky-earth-46160.jpeg");
     background-repeat: no-repeat;
