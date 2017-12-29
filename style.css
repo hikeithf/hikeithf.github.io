@@ -27,22 +27,12 @@
     background-color: black;
     opacity: 0.7;
     position: absolute;
-    left: 450px;
+    left: 400px;
 }
 
 h1 {
     color: orange;
     text-align: center;
-}
-
-.nav {
-    text-align: center;
-}
-
-.nav-item {
-    color: black;
-    background-color: white;
-    display: inline;
 }
 
 .footer {
