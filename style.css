@@ -4,7 +4,8 @@
 
 .logo {
     display: block;
-    border: 1px blue;
+    border-width: 5px;
+    border-color: black;
     margin: 0px auto 0px auto;
 }
 
